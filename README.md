@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @CodeAltus
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and other stuff that I come across!
-- 🌱 I’m currently learning Python, Javascript and Java
+- Hi, I’m @CodeAltus
+- I run a youtube channel called [CodeAltus](https://www.youtube.com/channel/UCURU-UotdxRNsfdbzIkMVlg)
+- I post free tutorial videos and project videos on my youtube channel
+- I have experience in Python, Java and Javascript
